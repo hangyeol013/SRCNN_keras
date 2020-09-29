@@ -17,13 +17,9 @@ My implementation may have some differences with the original paper:
 #### Networks)
 
 Patch extraction and prepresentation)
-
 Filter size: 9x9
-
 Channel maps: 64
-
 Activation function: ReLU
-
 Border mode: Same (Zero Padding)
 
 
