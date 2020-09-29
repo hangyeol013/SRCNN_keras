@@ -9,6 +9,7 @@ A implementation of the original paper ['Image Super-Resolution Using Deep Convo
 
 
 
+
 ### Implementations
 -------------------------------------------------------
 My implementation may have some differences with the original paper:
@@ -24,16 +25,15 @@ Patch extraction and prepresentation)
 
 
 Non-linear mapping)
+- Filter size: 5x5
+- Channel mapls: 32
+- Activation function: ReLU
+- Border mode: Same (Zero Padding)
 
-Filter size: 5x5
-Channel mapls: 32
-Activation function: ReLU
-Border mode: Same (Zero Padding)
 
 Patch extraction and prepresentation)
-
-Filter size : 5x5
-Channel maps: 1
-Activation function: Linear
-Border mode: Same (Zero Padding)
+- Filter size : 5x5
+- Channel maps: 1
+- Activation function: Linear
+- Border mode: Same (Zero Padding)
 
