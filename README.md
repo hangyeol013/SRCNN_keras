@@ -34,3 +34,12 @@ Patch extraction and prepresentation)
 - Channel maps: 1
 - Activation function: Linear
 - Border mode: Same (Zero Padding)
+
+
+#### Training)
+
+- Loss Function: MSE (Mean Squared Error)
+-Optimizer: Adam
+-Learning rate: 0.0001 (0.00001 for the last layer)
+-Batch size: 128
+
