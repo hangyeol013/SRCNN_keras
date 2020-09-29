@@ -23,17 +23,14 @@ Patch extraction and prepresentation)
 - Activation function: ReLU
 - Border mode: Same (Zero Padding)
 
-
 Non-linear mapping)
 - Filter size: 5x5
 - Channel mapls: 32
 - Activation function: ReLU
 - Border mode: Same (Zero Padding)
 
-
 Patch extraction and prepresentation)
 - Filter size : 5x5
 - Channel maps: 1
 - Activation function: Linear
 - Border mode: Same (Zero Padding)
-
