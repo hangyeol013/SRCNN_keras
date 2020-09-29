@@ -59,13 +59,13 @@ Patch extraction and prepresentation)
 -------------------------------------------------------
 
 You can generate dataset (training sample, test sample) through matlab files in Dataset_Generating directory
-Excute for training sample: 'SRCNN_generate_train.m'
-Excute for test sample: 'generate_test.m'
+- Excute for training sample: 'SRCNN_generate_train.m'
+- Excute for test sample: 'generate_test.m'
 
 
 I also uploaded the trained weight files.
 
 With SRCNN.ipynb files and weight files, you can test the network.
-Excute for x2 SRCNN: SRCNN_scale2.ipynb, /weights/SRCNN_checkpoint_scale2.h5
-Excute for x3 SRCNN: SRCNN_scale3.ipynb, /weights/SRCNN_checkpoint_scale3.h5
-Excute for x4 SRCNN: SRCNN_scale4.ipynb, /weights/SRCNN_checkpoint_scale4.h5
+- Excute for x2 SRCNN: SRCNN_scale2.ipynb, /weights/SRCNN_checkpoint_scale2.h5
+- Excute for x3 SRCNN: SRCNN_scale3.ipynb, /weights/SRCNN_checkpoint_scale3.h5
+- Excute for x4 SRCNN: SRCNN_scale4.ipynb, /weights/SRCNN_checkpoint_scale4.h5
