@@ -39,7 +39,7 @@ Patch extraction and prepresentation)
 #### Training)
 
 - Loss Function: MSE (Mean Squared Error)
--Optimizer: Adam
--Learning rate: 0.0001 (0.00001 for the last layer)
--Batch size: 128
+- Optimizer: Adam
+- Learning rate: 0.0001 (0.00001 for the last layer)
+- Batch size: 128
 
