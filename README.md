@@ -11,7 +11,7 @@ A implementation of the original paper ['Image Super-Resolution Using Deep Convo
 
 
 
-### Implementations
+### Implementation
 -------------------------------------------------------
 My implementation may have some differences with the original paper:
 
