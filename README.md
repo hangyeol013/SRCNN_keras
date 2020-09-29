@@ -8,4 +8,4 @@ A implementation of the original paper ['Image Super-Resolution Using Deep Convo
 
 
 
-<img width = "200" src="https://user-images.githubusercontent.com/58276840/94503875-77722b00-0242-11eb-85f8-93e7cb0fdd11.png">
+<img width = "800" src="https://user-images.githubusercontent.com/58276840/94503875-77722b00-0242-11eb-85f8-93e7cb0fdd11.png">
