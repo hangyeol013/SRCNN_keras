@@ -9,10 +9,7 @@ A implementation of the original paper ['Image Super-Resolution Using Deep Convo
 
 
 
-tensorflow-gpu 2.0.0
-keras 2.3.1
-
-based implementation on Python 2.7.17, using Jupyter Notebook.
+tensorflow-gpu 2.0.0, keras 2.3.1 based implementation on Python 2.7.17, using Jupyter Notebook.
 
 
 
