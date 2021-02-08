@@ -11,6 +11,7 @@ A implementation of the original paper ['Image Super-Resolution Using Deep Convo
 
 tensorflow-gpu 2.0.0, keras 2.3.1 based implementation on Python 3.6.9, using Jupyter Notebook.
 
+(I converted the .ipynb file to .py file)
 
 
 
@@ -69,6 +70,6 @@ You can generate dataset (training sample, test sample) through matlab files in 
 I also uploaded the trained weight files.
 
 With SRCNN.ipynb files and weight files, you can test the network.
-- Excute for x2 SRCNN: `SRCNN_scale2.ipynb`, `/weights/SRCNN_checkpoint_scale2.h5`
-- Excute for x3 SRCNN: `SRCNN_scale3.ipynb`, `/weights/SRCNN_checkpoint_scale3.h5`
-- Excute for x4 SRCNN: `SRCNN_scale4.ipynb`, `/weights/SRCNN_checkpoint_scale4.h5`
+- Excute for x2 SRCNN: `SRCNN_scale2.py`, `/weights/SRCNN_checkpoint_scale2.h5`
+- Excute for x3 SRCNN: `SRCNN_scale3.py`, `/weights/SRCNN_checkpoint_scale3.h5`
+- Excute for x4 SRCNN: `SRCNN_scale4.py`, `/weights/SRCNN_checkpoint_scale4.h5`
